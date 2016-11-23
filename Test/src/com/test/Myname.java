@@ -10,6 +10,7 @@ public class Myname {
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+			System.out.println("");
 		}
 		System.out.println("program done");
 	}
