@@ -6,6 +6,7 @@ public class Myname {
 		System.out.println("this is main class");
 		try {
 			Thread.sleep(60*100*100);
+			//
 			//amit singh git demo
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
